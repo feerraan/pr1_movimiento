@@ -47,7 +47,7 @@ public class movement : MonoBehaviour
         camera.transform.position = transform.position + offset;
 
         transform.Rotate(Vector3.up * Time.deltaTime * rotateSpeed * horitzontalinput);
-
+        
 
     }
 }

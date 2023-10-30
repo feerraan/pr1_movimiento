@@ -3780,8 +3780,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 534669902}
-  speed: 10
+  speed: 15
   lateralSpeed: 5
+  rotateSpeed: 75
   offset: {x: 0, y: 4, z: -10}
 --- !u!54 &1624803692
 Rigidbody:
